@@ -1,0 +1,5 @@
+C:\Users\Abdo\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\GitterBot.exe.config
+C:\Users\Abdo\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\GitterBot.exe
+C:\Users\Abdo\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\GitterBot.pdb
+C:\Users\Abdo\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\GitterBot.exe
+C:\Users\Abdo\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\GitterBot.pdb

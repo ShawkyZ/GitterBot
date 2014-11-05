@@ -1,0 +1,7 @@
+c:\users\abdo\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\EgyGeeksBots.csprojResolveAssemblyReference.cache
+c:\users\abdo\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\EgyGeeksBot.exe.config
+c:\users\abdo\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\EgyGeeksBot.exe
+c:\users\abdo\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\EgyGeeksBot.pdb
+c:\users\abdo\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\EgyGeeksBot.exe
+c:\users\abdo\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\EgyGeeksBot.pdb
+C:\Users\Abdo\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\GitterBot.exe.config
